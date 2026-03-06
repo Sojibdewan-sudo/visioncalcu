@@ -9,7 +9,7 @@ export function Hero() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white dark:bg-slate-800 text-indigo-600 dark:text-indigo-400 text-sm font-medium mb-8 border border-slate-200 dark:border-slate-700 shadow-sm">
           <Zap size={16} className="text-amber-500" />
-          <span>Powered by Google Gemini AI</span>
+      
         </div>
         
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-7xl">
