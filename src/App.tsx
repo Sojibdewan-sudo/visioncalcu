@@ -96,6 +96,15 @@ export default function App() {
       </div>
 
       <Footer />
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6M4SSF23EV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6M4SSF23EV');
+</script>
     </div>
   );
 }
